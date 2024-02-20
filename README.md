@@ -1,4 +1,4 @@
-<p align="center">![n4 logo]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://n4technology.com/assets/img/logo.svg)?raw=true)</p>
+<p align="center"><img src="[https://massgrave.dev/images/logo_small.png](https://n4technology.com/assets/img/logo.svg)" alt="N4"></p>
 
 <h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
 
