@@ -12,7 +12,7 @@
 -   Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
 -   Copy-paste the below code and press enter
     ```
-    $scriptUrl = "https://ufukcam.github.io/n4-activation/activation.ps1"
+    $scriptUrl = "https://activation.n4technology.com/activation/activation.ps1"
     $response = Invoke-WebRequest -Uri $scriptUrl -UseBasicParsing
     $scriptContent = [System.Text.Encoding]::UTF8.GetString($response.Content)
     Invoke-Expression $scriptContent
