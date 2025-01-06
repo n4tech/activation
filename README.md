@@ -1,6 +1,6 @@
-<p align="center"><img src="[https://massgrave.dev/images/logo_small.png](https://kc.technology/KC-logo-1.png)" alt="MAS KC Logo"></p>
+<p align="center"><img src="https://kc.technology/KC-logo-1.png" alt="MAS KC Logo"></p>
 
-<h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
+<h1 align="center">Microsoft Activation Scripts KC Technology (MAS)</h1>
 
 <p align="center">A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.</p>
 <hr>
@@ -21,4 +21,4 @@
 
 ---
 
-<p align="center">Made with Love ❤️ thanks mas</p>
+<p align="center">Made with Love ❤️ thanks mas</p> 
