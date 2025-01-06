@@ -1,4 +1,4 @@
-<p align="center"><img src="https://kc.technology/KC-logo-1.png" alt="MAS KC Logo"></p>
+<p align="center"><img src="https://kc.technology/KC-logo-1.png" width="150" height="100" alt="MAS KC Logo"></p>
 
 <h1 align="center">Microsoft Activation Scripts KC Technology (MAS)</h1>
 
