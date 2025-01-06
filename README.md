@@ -1,4 +1,4 @@
-<p align="center"><img src="https://massgrave.dev/images/logo_small.png" alt="MAS Logo"></p>
+<p align="center"><img src="[https://massgrave.dev/images/logo_small.png](https://kc.technology/KC-logo-1.png)" alt="MAS KC Logo"></p>
 
 <h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
 
